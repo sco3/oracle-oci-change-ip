@@ -2,6 +2,21 @@
 
 This guide explains how to change the public IP address of an Oracle Cloud Infrastructure (OCI) instance by removing the current IP address and requesting a new Ephemeral public IP.
 
+Quick guide:
+
+ * Instances 
+ * `instance`
+ * Networking
+ * Attached VNICs
+ * `instance`
+ * IP administration
+ * ... (three dots on right side)
+ * Edit
+ * No public IP
+ * Update
+ * Ephemeral
+ * Update
+
 ---
 
 ## Step 1: Open IP Administration
